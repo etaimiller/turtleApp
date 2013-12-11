@@ -20,7 +20,9 @@ group :test do
 	gem 'factory_girl_rails', '4.2.1'
 end
 
+#Use twitter bootstrap
 gem 'twitter-bootstrap-rails'
+
 # Use SCSS for stylesheets
 gem 'sass-rails', '4.0.1'
 
